@@ -1,0 +1,8 @@
+.homePage {
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
+.wrapper {
+    padding: 30px;
+}

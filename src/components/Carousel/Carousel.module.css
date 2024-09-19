@@ -1,0 +1,10 @@
+.carousel {
+    display: flex;
+    gap: 45px;
+   }
+   
+   .carouselWrapper {
+       position: relative;
+     }
+     
+   
